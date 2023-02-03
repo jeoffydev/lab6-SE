@@ -1,0 +1,8 @@
+module.exports = {
+    mysqlConfig: {
+    host: "localhost",
+    user: "root",
+    password: "root",
+    database: "mydb_lab6",
+    }
+}
